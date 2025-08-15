@@ -49,7 +49,7 @@ traceability-matrix:
     number: LO-Nummer
     description: Lernziel (K-Stufe)
 page: [Seite, von]
-provided-by: [Zur Verfügung gestellt von, Zur Verfügung gestellt von]
+provided-by: [Deutsche Ausgabe zur Verfügung gestellt von, Deutsche Ausgabe zur Verfügung gestellt von]
 istqb: International Software Testing Qualifications Board
 list-delimiters: [und, ',', und]
 business-outcomes: [ID, Beschreibung]
